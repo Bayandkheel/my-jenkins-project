@@ -1,0 +1,2 @@
+# my-jenkins-project
+pipeline
